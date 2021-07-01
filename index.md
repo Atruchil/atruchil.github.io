@@ -1,5 +1,4 @@
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Image of Margot](https://atruchil.github.com/margot.JPG)
 
 ## Welcome to GitHub Pages
 
